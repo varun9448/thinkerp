@@ -5,8 +5,8 @@
 /public/storage
 /storage/installed
 /storage/*.key
-/vendor
-.env
+# /vendor
+# .env
 .env.backup
 .env.production
 .phpactor.json
